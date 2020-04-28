@@ -2,3 +2,9 @@ dotnet tool install --global dotnet-ef
 dotnet ef migrations add Update1 -p Persistence/ -s API
 dotnet ef migrationclears remove -p Persistence/ -s API/
 dotnet ef migrations add SeedDataUpdate1 -p Persistence/ -s API
+
+git init
+git add .
+git commit -m "Commit001: initial commit"
+git remote add origin https://github.com/BilgesPage/SociaLINE.git
+git push -u origin master
