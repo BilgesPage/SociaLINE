@@ -1,0 +1,4 @@
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add Update1 -p Persistence/ -s API
+dotnet ef migrationclears remove -p Persistence/ -s API/
+dotnet ef migrations add SeedDataUpdate1 -p Persistence/ -s API

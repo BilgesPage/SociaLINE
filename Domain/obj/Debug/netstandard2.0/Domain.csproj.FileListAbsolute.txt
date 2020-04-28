@@ -1,0 +1,8 @@
+C:\SociaLINE\Project\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\SociaLINE\Project\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\SociaLINE\Project\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\SociaLINE\Project\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\SociaLINE\Project\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\SociaLINE\Project\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\SociaLINE\Project\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\SociaLINE\Project\Domain\obj\Debug\netstandard2.0\Domain.pdb

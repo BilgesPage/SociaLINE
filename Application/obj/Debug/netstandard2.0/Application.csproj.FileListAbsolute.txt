@@ -1,0 +1,13 @@
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Application.dll
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\SociaLINE\Project\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.dll
+C:\SociaLINE\Project\Application\obj\Debug\netstandard2.0\Application.pdb
