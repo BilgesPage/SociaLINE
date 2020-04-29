@@ -8,7 +8,7 @@ dotnet ef migrations add SeedDataUpdate1 -p Persistence/ -s API
 git init
 git add .
 git commit -m "Commit001: initial commit"
-git remote add origin https://github.com/BilgesPage/SociaLINE.git
+git remote add origin https://github.com/...
 git push -u origin master
 
 // Add React App Terminal command
