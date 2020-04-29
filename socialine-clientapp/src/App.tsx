@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
-import  {Header, Icon} from 'semantic-ui-react'
+import  {Header, Icon, List} from 'semantic-ui-react'
 
 class App extends Component {
 
@@ -14,7 +14,7 @@ class App extends Component {
     axios.get('http://localhost:5000/api/values').then(
       (response) => {
 
-        console.log(response);
+        // console.log(response);
 
         this.setState({
           values: response.data
@@ -32,13 +32,12 @@ class App extends Component {
           <Header.Content>SociaLINE</Header.Content>
         </Header>
 
-        <ul>
-        {
-          this.state.values.map( (value:any) => (
-          <li key={value}>{value.name}</li>
-          ))
-        }
-        </ul>
+        <List>
+          {this.state.values.map( (value:any) => (
+            <List.Item key={value.id}>{value.name}</List.Item>
+            ))
+          }
+        </List>
       </div>
     );
   }; 
