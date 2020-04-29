@@ -1,0 +1,23 @@
+// EFcore commands
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add Update1 -p Persistence/ -s API
+dotnet ef migrationclears remove -p Persistence/ -s API/
+dotnet ef migrations add SeedDataUpdate1 -p Persistence/ -s API
+
+// Some git commands
+git init
+git add .
+git commit -m "Commit001: initial commit"
+git remote add origin https://github.com/BilgesPage/SociaLINE.git
+git push -u origin master
+
+// Add React App Terminal command
+npx create-react-app socialine-clientapp --use-npm --typescript
+npm start (to run the React app)
+
+// Install Axios
+npm install axios
+
+//Install Semantic UI
+npm install semantic-ui-react
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" />

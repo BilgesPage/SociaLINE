@@ -1,7 +1,8 @@
 bin
 obj
+vscode
 .vscode
 .DS_Store
 appsettings.json
 *.db
-*.txt
+robots.txt
